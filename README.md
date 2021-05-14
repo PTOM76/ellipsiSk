@@ -5,11 +5,11 @@
 ### フォーマット
 - 変数に1を加算
 ```yml
-&#91;(e|ellipsisk)&#93; ++(%numbers%)
+[(e|ellipsisk)] ++(%numbers%)
 ```
 - 変数に-1を加算
 ```yml
-&#91;(e|ellipsisk)&#93; --(%numbers%)
+[(e|ellipsisk)] --(%numbers%)
 ```
 - 変数にオブジェクト(文字列、数値など)をセット
 ```yml
